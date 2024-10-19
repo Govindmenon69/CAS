@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Copyright Text",
-  "usage-stats": false
+  "footer": "Ⓒ Orange Labs 2024 , Absolutely no rights reserved",
+  "usage-stats": true
 }
